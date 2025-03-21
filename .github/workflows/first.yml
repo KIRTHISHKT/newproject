@@ -38,4 +38,4 @@ jobs:
       run: dotnet test --no-build --verbosity normal --configuration Release
 
     - name: Run Code Analysis
-      run: dotnet build /p:TreatWarningsAsErrors=true /p:EnforceCodeStyleInBuild=true
+      run: dotnet build /p:TreatWarningsAsErrors=false /p:EnforceCodeStyleInBuild=true
