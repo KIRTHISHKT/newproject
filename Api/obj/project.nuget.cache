@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "3OKyo1P2bEk=",
+  "success": false,
+  "projectFilePath": "C:\\Temp\\GitHub\\NewProject\\Api\\Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.OpenApi (>= 9.0.3)' for 'net9.0'.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
